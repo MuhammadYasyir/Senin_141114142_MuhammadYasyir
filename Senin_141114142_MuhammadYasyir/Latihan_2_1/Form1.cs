@@ -95,5 +95,10 @@ namespace Latihan_2_1
             monthCalendar1.RemoveAnnuallyBoldedDate(mo);
            
         }
+
+        private void tgl_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -57,6 +57,7 @@
             this.tgl.Name = "tgl";
             this.tgl.Size = new System.Drawing.Size(121, 20);
             this.tgl.TabIndex = 1;
+            this.tgl.ValueChanged += new System.EventHandler(this.tgl_ValueChanged);
             // 
             // bln
             // 
