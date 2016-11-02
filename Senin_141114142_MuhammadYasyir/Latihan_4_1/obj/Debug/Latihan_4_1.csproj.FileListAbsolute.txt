@@ -1,0 +1,27 @@
+D:\Kangviesta\Semester V\CSharpLanjutan\Senin_141111511_KelvinAngviesta\TugasCSharpLanjutan\TugasCSharpLanjutanLatihan4\bin\Debug\TugasCSharpLanjutanLatihan4.exe.config
+D:\Kangviesta\Semester V\CSharpLanjutan\Senin_141111511_KelvinAngviesta\TugasCSharpLanjutan\TugasCSharpLanjutanLatihan4\obj\Debug\TugasCSharpLanjutanLatihan4.Form1.resources
+D:\Kangviesta\Semester V\CSharpLanjutan\Senin_141111511_KelvinAngviesta\TugasCSharpLanjutan\TugasCSharpLanjutanLatihan4\obj\Debug\TugasCSharpLanjutanLatihan4.Properties.Resources.resources
+D:\Kangviesta\Semester V\CSharpLanjutan\Senin_141111511_KelvinAngviesta\TugasCSharpLanjutan\TugasCSharpLanjutanLatihan4\obj\Debug\TugasCSharpLanjutanLatihan4.csproj.GenerateResource.Cache
+D:\Kangviesta\Semester V\CSharpLanjutan\Senin_141111511_KelvinAngviesta\TugasCSharpLanjutan\TugasCSharpLanjutanLatihan4\bin\Debug\TugasCSharpLanjutanLatihan4.exe
+D:\Kangviesta\Semester V\CSharpLanjutan\Senin_141111511_KelvinAngviesta\TugasCSharpLanjutan\TugasCSharpLanjutanLatihan4\bin\Debug\TugasCSharpLanjutanLatihan4.pdb
+D:\Kangviesta\Semester V\CSharpLanjutan\Senin_141111511_KelvinAngviesta\TugasCSharpLanjutan\TugasCSharpLanjutanLatihan4\obj\Debug\TugasCSharpLanjutanLatihan4.exe
+D:\Kangviesta\Semester V\CSharpLanjutan\Senin_141111511_KelvinAngviesta\TugasCSharpLanjutan\TugasCSharpLanjutanLatihan4\obj\Debug\TugasCSharpLanjutanLatihan4.pdb
+D:\Kangviesta\Semester V\CSharpLanjutan\Senin_141111511_KelvinAngviesta\TugasCSharpLanjutan\TugasCSharpLanjutanLatihan4\obj\Debug\TugasCSharpLanjutanLatihan4.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Yasyir\Desktop\New folder\TugasCSharpLanjutan\TugasCSharpLanjutanLatihan4\bin\Debug\TugasCSharpLanjutanLatihan4.exe.config
+C:\Users\Muhammad Yasyir\Desktop\New folder\TugasCSharpLanjutan\TugasCSharpLanjutanLatihan4\obj\Debug\TugasCSharpLanjutanLatihan4.exe
+C:\Users\Muhammad Yasyir\Desktop\New folder\TugasCSharpLanjutan\TugasCSharpLanjutanLatihan4\obj\Debug\TugasCSharpLanjutanLatihan4.pdb
+C:\Users\Muhammad Yasyir\Desktop\New folder\TugasCSharpLanjutan\TugasCSharpLanjutanLatihan4\bin\Debug\TugasCSharpLanjutanLatihan4.exe
+C:\Users\Muhammad Yasyir\Desktop\New folder\TugasCSharpLanjutan\TugasCSharpLanjutanLatihan4\bin\Debug\TugasCSharpLanjutanLatihan4.pdb
+C:\Users\Muhammad Yasyir\Desktop\New folder\TugasCSharpLanjutan\TugasCSharpLanjutanLatihan4\obj\Debug\TugasCSharpLanjutanLatihan4.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Yasyir\Desktop\New folder\TugasCSharpLanjutan\TugasCSharpLanjutanLatihan4\obj\Debug\TugasCSharpLanjutanLatihan4.Form1.resources
+C:\Users\Muhammad Yasyir\Desktop\New folder\TugasCSharpLanjutan\TugasCSharpLanjutanLatihan4\obj\Debug\TugasCSharpLanjutanLatihan4.Properties.Resources.resources
+C:\Users\Muhammad Yasyir\Desktop\New folder\TugasCSharpLanjutan\TugasCSharpLanjutanLatihan4\obj\Debug\TugasCSharpLanjutanLatihan4.csproj.GenerateResource.Cache
+D:\Data Yasyir\Document\STMIK\Smester V\Framework Lanjutan\Tugas\Senin_141114142_MuhammadYasyir\Senin_141114142_MuhammadYasyir\Latihan_4_1\obj\Debug\Latihan_4_1.csprojResolveAssemblyReference.cache
+D:\Data Yasyir\Document\STMIK\Smester V\Framework Lanjutan\Tugas\Senin_141114142_MuhammadYasyir\Senin_141114142_MuhammadYasyir\Latihan_4_1\obj\Debug\Latihan_4_1.csproj.GenerateResource.Cache
+D:\Data Yasyir\Document\STMIK\Smester V\Framework Lanjutan\Tugas\Senin_141114142_MuhammadYasyir\Senin_141114142_MuhammadYasyir\Latihan_4_1\bin\Debug\Latihan_4_1.exe.config
+D:\Data Yasyir\Document\STMIK\Smester V\Framework Lanjutan\Tugas\Senin_141114142_MuhammadYasyir\Senin_141114142_MuhammadYasyir\Latihan_4_1\obj\Debug\Latihan_4_1.exe
+D:\Data Yasyir\Document\STMIK\Smester V\Framework Lanjutan\Tugas\Senin_141114142_MuhammadYasyir\Senin_141114142_MuhammadYasyir\Latihan_4_1\obj\Debug\Latihan_4_1.pdb
+D:\Data Yasyir\Document\STMIK\Smester V\Framework Lanjutan\Tugas\Senin_141114142_MuhammadYasyir\Senin_141114142_MuhammadYasyir\Latihan_4_1\bin\Debug\Latihan_4_1.exe
+D:\Data Yasyir\Document\STMIK\Smester V\Framework Lanjutan\Tugas\Senin_141114142_MuhammadYasyir\Senin_141114142_MuhammadYasyir\Latihan_4_1\bin\Debug\Latihan_4_1.pdb
+D:\Data Yasyir\Document\STMIK\Smester V\Framework Lanjutan\Tugas\Senin_141114142_MuhammadYasyir\Senin_141114142_MuhammadYasyir\Latihan_4_1\obj\Debug\Latihan_4_1.Properties.Resources.resources
+D:\Data Yasyir\Document\STMIK\Smester V\Framework Lanjutan\Tugas\Senin_141114142_MuhammadYasyir\Senin_141114142_MuhammadYasyir\Latihan_4_1\obj\Debug\Latihan_4_1.Form1.resources
