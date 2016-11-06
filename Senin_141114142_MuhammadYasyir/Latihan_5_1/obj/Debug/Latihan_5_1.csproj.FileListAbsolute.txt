@@ -1,0 +1,13 @@
+D:\new\Senin_141110965_TomiAditiya\Latihan_5_1\bin\Debug\Latihan_5_1.exe.config
+D:\new\Senin_141110965_TomiAditiya\Latihan_5_1\bin\Debug\Latihan_5_1.exe
+D:\new\Senin_141110965_TomiAditiya\Latihan_5_1\bin\Debug\Latihan_5_1.pdb
+D:\new\Senin_141110965_TomiAditiya\Latihan_5_1\obj\Debug\Latihan_5_1.csprojResolveAssemblyReference.cache
+D:\new\Senin_141110965_TomiAditiya\Latihan_5_1\obj\Debug\Latihan_5_1.Form1.resources
+D:\new\Senin_141110965_TomiAditiya\Latihan_5_1\obj\Debug\Latihan_5_1.Properties.Resources.resources
+D:\new\Senin_141110965_TomiAditiya\Latihan_5_1\obj\Debug\Latihan_5_1.csproj.GenerateResource.Cache
+D:\new\Senin_141110965_TomiAditiya\Latihan_5_1\obj\Debug\Latihan_5_1.exe
+D:\new\Senin_141110965_TomiAditiya\Latihan_5_1\obj\Debug\Latihan_5_1.pdb
+D:\new\Senin_141110965_TomiAditiya\Latihan_5_1\obj\Debug\Latihan_5_1.Setting.resources
+D:\Data Yasyir\Document\STMIK\Smester V\Framework Lanjutan\Tugas\Senin_141114142_MuhammadYasyir\Senin_141114142_MuhammadYasyir\Latihan_5_1\bin\Debug\Latihan_5_1.exe.config
+D:\Data Yasyir\Document\STMIK\Smester V\Framework Lanjutan\Tugas\Senin_141114142_MuhammadYasyir\Senin_141114142_MuhammadYasyir\Latihan_5_1\obj\Debug\Latihan_5_1.exe
+D:\Data Yasyir\Document\STMIK\Smester V\Framework Lanjutan\Tugas\Senin_141114142_MuhammadYasyir\Senin_141114142_MuhammadYasyir\Latihan_5_1\obj\Debug\Latihan_5_1.pdb
