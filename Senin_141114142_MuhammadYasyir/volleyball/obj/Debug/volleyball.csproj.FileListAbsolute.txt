@@ -1,0 +1,43 @@
+D:\new\Senin_141110965_TomiAditiya\volleyball_problem\bin\Debug\volleyball_problem.exe.config
+D:\new\Senin_141110965_TomiAditiya\volleyball_problem\bin\Debug\volleyball_problem.exe
+D:\new\Senin_141110965_TomiAditiya\volleyball_problem\bin\Debug\volleyball_problem.pdb
+D:\new\Senin_141110965_TomiAditiya\volleyball_problem\obj\Debug\volleyball_problem.csprojResolveAssemblyReference.cache
+D:\new\Senin_141110965_TomiAditiya\volleyball_problem\obj\Debug\volleyball_problem.Form1.resources
+D:\new\Senin_141110965_TomiAditiya\volleyball_problem\obj\Debug\volleyball_problem.Properties.Resources.resources
+D:\new\Senin_141110965_TomiAditiya\volleyball_problem\obj\Debug\volleyball_problem.csproj.GenerateResource.Cache
+D:\new\Senin_141110965_TomiAditiya\volleyball_problem\obj\Debug\volleyball_problem.exe
+D:\new\Senin_141110965_TomiAditiya\volleyball_problem\obj\Debug\volleyball_problem.pdb
+C:\Users\Yasyir\Desktop\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\volleyball_problem\bin\Debug\volleyball_problem.exe.config
+C:\Users\Yasyir\Desktop\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\volleyball_problem\obj\Debug\volleyball_problem.exe
+C:\Users\Yasyir\Desktop\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\volleyball_problem\obj\Debug\volleyball_problem.pdb
+C:\Users\Yasyir\Desktop\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\volleyball_problem\bin\Debug\volleyball_problem.exe
+C:\Users\Yasyir\Desktop\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\volleyball_problem\bin\Debug\volleyball_problem.pdb
+C:\Users\Yasyir\Desktop\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\volleyball_problem\bin\Debug\mscorlib.dll
+C:\Users\Yasyir\Desktop\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\volleyball_problem\bin\Debug\System.Net.Http.dll
+C:\Users\Yasyir\Desktop\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\volleyball_problem\bin\Debug\System.Net.Http.xml
+C:\Users\Yasyir\Desktop\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\volleyball_problem\bin\Debug\normidna.nlp
+C:\Users\Yasyir\Desktop\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\volleyball_problem\bin\Debug\normnfc.nlp
+C:\Users\Yasyir\Desktop\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\volleyball_problem\bin\Debug\normnfd.nlp
+C:\Users\Yasyir\Desktop\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\volleyball_problem\bin\Debug\normnfkc.nlp
+C:\Users\Yasyir\Desktop\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\volleyball_problem\bin\Debug\normnfkd.nlp
+C:\Users\Yasyir\Desktop\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\volleyball_problem\obj\Debug\volleyball_problem.csprojResolveAssemblyReference.cache
+C:\Users\Yasyir\Desktop\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\volleyball_problem\obj\Debug\volleyball_problem.Form1.resources
+C:\Users\Yasyir\Desktop\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\volleyball_problem\obj\Debug\volleyball_problem.Properties.Resources.resources
+C:\Users\Yasyir\Desktop\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\volleyball_problem\obj\Debug\volleyball_problem.csproj.GenerateResource.Cache
+D:\Data Yasyir\Document\STMIK\Smester V\Framework Lanjutan\Tugas\Senin_141114142_MuhammadYasyir\Senin_141114142_MuhammadYasyir\volleyball\bin\Debug\volleyball.exe.config
+D:\Data Yasyir\Document\STMIK\Smester V\Framework Lanjutan\Tugas\Senin_141114142_MuhammadYasyir\Senin_141114142_MuhammadYasyir\volleyball\obj\Debug\volleyball.exe
+D:\Data Yasyir\Document\STMIK\Smester V\Framework Lanjutan\Tugas\Senin_141114142_MuhammadYasyir\Senin_141114142_MuhammadYasyir\volleyball\obj\Debug\volleyball.pdb
+D:\Data Yasyir\Document\STMIK\Smester V\Framework Lanjutan\Tugas\Senin_141114142_MuhammadYasyir\Senin_141114142_MuhammadYasyir\volleyball\bin\Debug\volleyball.exe
+D:\Data Yasyir\Document\STMIK\Smester V\Framework Lanjutan\Tugas\Senin_141114142_MuhammadYasyir\Senin_141114142_MuhammadYasyir\volleyball\bin\Debug\volleyball.pdb
+D:\Data Yasyir\Document\STMIK\Smester V\Framework Lanjutan\Tugas\Senin_141114142_MuhammadYasyir\Senin_141114142_MuhammadYasyir\volleyball\bin\Debug\mscorlib.dll
+D:\Data Yasyir\Document\STMIK\Smester V\Framework Lanjutan\Tugas\Senin_141114142_MuhammadYasyir\Senin_141114142_MuhammadYasyir\volleyball\bin\Debug\System.Net.Http.dll
+D:\Data Yasyir\Document\STMIK\Smester V\Framework Lanjutan\Tugas\Senin_141114142_MuhammadYasyir\Senin_141114142_MuhammadYasyir\volleyball\bin\Debug\System.Net.Http.xml
+D:\Data Yasyir\Document\STMIK\Smester V\Framework Lanjutan\Tugas\Senin_141114142_MuhammadYasyir\Senin_141114142_MuhammadYasyir\volleyball\bin\Debug\normidna.nlp
+D:\Data Yasyir\Document\STMIK\Smester V\Framework Lanjutan\Tugas\Senin_141114142_MuhammadYasyir\Senin_141114142_MuhammadYasyir\volleyball\bin\Debug\normnfc.nlp
+D:\Data Yasyir\Document\STMIK\Smester V\Framework Lanjutan\Tugas\Senin_141114142_MuhammadYasyir\Senin_141114142_MuhammadYasyir\volleyball\bin\Debug\normnfd.nlp
+D:\Data Yasyir\Document\STMIK\Smester V\Framework Lanjutan\Tugas\Senin_141114142_MuhammadYasyir\Senin_141114142_MuhammadYasyir\volleyball\bin\Debug\normnfkc.nlp
+D:\Data Yasyir\Document\STMIK\Smester V\Framework Lanjutan\Tugas\Senin_141114142_MuhammadYasyir\Senin_141114142_MuhammadYasyir\volleyball\bin\Debug\normnfkd.nlp
+D:\Data Yasyir\Document\STMIK\Smester V\Framework Lanjutan\Tugas\Senin_141114142_MuhammadYasyir\Senin_141114142_MuhammadYasyir\volleyball\obj\Debug\volleyball.csprojResolveAssemblyReference.cache
+D:\Data Yasyir\Document\STMIK\Smester V\Framework Lanjutan\Tugas\Senin_141114142_MuhammadYasyir\Senin_141114142_MuhammadYasyir\volleyball\obj\Debug\volleyball.Form1.resources
+D:\Data Yasyir\Document\STMIK\Smester V\Framework Lanjutan\Tugas\Senin_141114142_MuhammadYasyir\Senin_141114142_MuhammadYasyir\volleyball\obj\Debug\volleyball.Properties.Resources.resources
+D:\Data Yasyir\Document\STMIK\Smester V\Framework Lanjutan\Tugas\Senin_141114142_MuhammadYasyir\Senin_141114142_MuhammadYasyir\volleyball\obj\Debug\volleyball.csproj.GenerateResource.Cache
